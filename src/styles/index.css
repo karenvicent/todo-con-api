@@ -10,3 +10,15 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+input{
+    outline: none;
+}
+caja{
+    justify-content: center;
+}
+h1{
+    color: rgb(208, 198, 187);
+}
+body, .titulo{
+   background-color: rgb(244, 239, 239);
+}
